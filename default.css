@@ -375,6 +375,7 @@ h6 { font-size: 16px;}
 
 
 .input-field{
+	
 	width: 100%;
 	padding-top: 10px;
 	padding-bottom:10px; 
@@ -442,3 +443,8 @@ h6 { font-size: 16px;}
 		font-size: medium;
 	}
 	}
+	/* @media screen and (max-width: 710px){
+		.input-field {
+			width: 90%;
+		}
+		} */
