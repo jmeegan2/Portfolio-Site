@@ -353,7 +353,7 @@ h6 { font-size: 16px;}
 
 
 #contact-form{
-	align-items: center;
+	/* align-items: center; */
 	display: block;
 	max-width: 600px;
 	margin: 0 auto;
