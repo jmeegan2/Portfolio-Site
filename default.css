@@ -356,9 +356,9 @@ h6 { font-size: 16px;}
 	/* align-items: center; */
 	display: block;
 	max-width: 600px;
-	margin: auto;
+	margin: 0 auto;
 	border: 1px solid var(--borderColor);
-	padding: 0px;
+	padding: 25px;
 	border-radius: 5px;
 	background-color: var(--mainColor);
 	margin-bottom: 50px;
