@@ -354,14 +354,14 @@ h6 { font-size: 16px;}
 
 #contact-form{
 	display: block;
-	max-width: auto;
+	max-width: 600px;
 	margin: 0 auto;
 	border: 1px solid var(--borderColor);
 	padding: 15px;
 	border-radius: 5px;
 	background-color: var(--mainColor);
 	margin-bottom: 50px;
-	width: auto;
+	width: 100%;
 }
 
 #contact-form label{
