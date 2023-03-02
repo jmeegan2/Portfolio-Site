@@ -1,3 +1,4 @@
 # Portfolio-Site
-Need to fix formatting for email form for mobile 
-Live link: https://thunderous-choux-2cec2e.netlify.app
+* I made this a long time ago so the structure is not the best 
+
+* Live link: https://thunderous-choux-2cec2e.netlify.app
