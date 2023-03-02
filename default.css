@@ -405,6 +405,8 @@ h6 { font-size: 16px;}
  h1{
 	font-size: 23px;
 }
+.greeting-wrapper{
+	min-height: 5em;
 	
 }
 
